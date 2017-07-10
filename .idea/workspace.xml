@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2287324e-eaa8-46d4-bbbe-582b8337e4a4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tests/DependencyInjection/MobileDetectExtensionTest.php" afterPath="$PROJECT_DIR$/Tests/DependencyInjection/MobileDetectExtensionTest.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="listener.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/config/listener.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobile_detect.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/config/mobile_detect.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/doc/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="608">
+                <caret line="38" column="10" lean-forward="false" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+                <folding>
+                  <marker date="1499704743547" expanded="true" signature="521:567" ph="{&quot;suncat/mobile-detect-bundle&quot;: &quot;1.0.*&quot;...}" />
+                  <marker date="1499704743547" expanded="true" signature="1227:2653" ph="mobile_detect: &lt;6 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="1227:2682" ph="mobile_detect: &lt;8 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="1246:2215" ph="redirect: &lt;4 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="1264:1503" ph="full: &lt;4 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="1294:1298" ph="true" />
+                  <marker date="1499704743547" expanded="true" signature="1344:1359" ph="http://site.com" />
+                  <marker date="1499704743547" expanded="true" signature="1446:1449" ph="301" />
+                  <marker date="1499704743547" expanded="true" signature="1495:1503" ph="redirect" />
+                  <marker date="1499704743547" expanded="true" signature="1570:1811" ph="mobile: &lt;4 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="1602:1606" ph="true" />
+                  <marker date="1499704743547" expanded="true" signature="1652:1669" ph="http://m.site.com" />
+                  <marker date="1499704743547" expanded="true" signature="1754:1757" ph="301" />
+                  <marker date="1499704743547" expanded="true" signature="1803:1811" ph="redirect" />
+                  <marker date="1499704743547" expanded="true" signature="1878:2119" ph="tablet: &lt;4 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="1910:1914" ph="true" />
+                  <marker date="1499704743547" expanded="true" signature="1960:1977" ph="http://t.site.com" />
+                  <marker date="1499704743547" expanded="true" signature="2062:2065" ph="301" />
+                  <marker date="1499704743547" expanded="true" signature="2111:2119" ph="redirect" />
+                  <marker date="1499704743547" expanded="true" signature="2211:2215" ph="true" />
+                  <marker date="1499704743547" expanded="true" signature="2238:2290" ph="switch_device_view: &lt;1 key&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="2285:2290" ph="false" />
+                  <marker date="1499704743547" expanded="true" signature="2518:2531" ph="device_view" />
+                  <marker date="1499704743547" expanded="true" signature="2599:2609" ph="+1 month" />
+                  <marker date="1499704743547" expanded="true" signature="2640:2653" ph="device_view" />
+                  <marker date="1499704743547" expanded="true" signature="2866:3047" ph="someaction: &lt;3 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="2892:2903" ph="/someaction" />
+                  <marker date="1499704743547" expanded="true" signature="2908:2962" ph="defaults: {1 key}" />
+                  <marker date="1499704743547" expanded="true" signature="2933:2960" ph="YourBundl…someAction" />
+                  <marker date="1499704743547" expanded="true" signature="2967:3047" ph="options: {3 keys}" />
+                  <marker date="1499704743547" expanded="true" signature="2987:2995" ph="redirect" />
+                  <marker date="1499704743547" expanded="true" signature="3005:3016" ph="no_redirect" />
+                  <marker date="1499704743547" expanded="true" signature="3024:3045" ph="redirect_…thout_path" />
+                  <marker date="1499704743547" expanded="true" signature="6222:6465" ph="mobile_detect: &lt;2 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="6245:6435" ph="redirect: &lt;2 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="6267:6413" ph="mobile: &lt;4 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="6303:6307" ph="true" />
+                  <marker date="1499704743547" expanded="true" signature="6330:6347" ph="http://m.site.com" />
+                  <marker date="1499704743547" expanded="true" signature="6377:6380" ph="301" />
+                  <marker date="1499704743547" expanded="true" signature="6405:6413" ph="redirect" />
+                  <marker date="1499704743547" expanded="true" signature="7885:8213" ph="framework: &lt;2 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="7904:7979" ph="router: &lt;1 key&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="7934:7979" ph="%kernel.r…mobile.yml" />
+                  <marker date="1499704743547" expanded="true" signature="7986:8213" ph="mobile_detect: &lt;2 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="8009:8183" ph="redirect: &lt;3 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="8031:8072" ph="mobile: &lt;1 key&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="8067:8072" ph="false" />
+                  <marker date="1499704743547" expanded="true" signature="8107:8183" ph="full: &lt;2 keys&gt;" />
+                  <marker date="1499704743547" expanded="true" signature="8141:8145" ph="true" />
+                  <marker date="1499704743547" expanded="true" signature="8168:8183" ph="http://site.com" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="device.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/Collector/device.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-817">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MobileDetectExtensionTest.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/DependencyInjection/MobileDetectExtensionTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twig.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/config/twig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Configuration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DependencyInjection/Configuration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1040">
+              <caret line="75" column="16" lean-forward="false" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MobileDetectExtension.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DependencyInjection/MobileDetectExtension.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtensionInterface.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/dependency-injection/Extension/ExtensionInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mobile_detect.mobile_detector.class</find>
+      <find>mobile_detector_class</find>
+      <find>mobile_detect.mobile_detector</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Resources/config</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Resources/config/listener.xml" />
+        <option value="$PROJECT_DIR$/Resources/config/twig.xml" />
+        <option value="$PROJECT_DIR$/Resources/config/mobile_detect.xml" />
+        <option value="$PROJECT_DIR$/DependencyInjection/MobileDetectExtension.php" />
+        <option value="$PROJECT_DIR$/DependencyInjection/Configuration.php" />
+        <option value="$PROJECT_DIR$/Resources/doc/index.md" />
+        <option value="$PROJECT_DIR$/Tests/DependencyInjection/MobileDetectExtensionTest.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileDetectBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileDetectBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileDetectBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileDetectBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tests" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileDetectBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileDetectBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tests" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DependencyInjection" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileDetectBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileDetectBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tests" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataCollector" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileDetectBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileDetectBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DependencyInjection" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2287324e-eaa8-46d4-bbbe-582b8337e4a4" name="Default" comment="" />
+      <created>1499455310198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499455310198</updated>
+      <workItem from="1499455311429" duration="1571000" />
+      <workItem from="1499700100697" duration="695000" />
+      <workItem from="1499704148662" duration="1004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3270000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2549651" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Resources/config/listener.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/config/mobile_detect.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="84" column="69" lean-forward="false" selection-start-line="84" selection-start-column="69" selection-end-line="84" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/config/listener.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/config/mobile_detect.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileDetectBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/config/listener.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/dependency-injection/Extension/ExtensionInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DependencyInjection/MobileDetectExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="75" column="16" lean-forward="false" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/config/twig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/config/mobile_detect.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/doc/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="608">
+            <caret line="38" column="10" lean-forward="false" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+            <folding>
+              <marker date="1499704743547" expanded="true" signature="521:567" ph="{&quot;suncat/mobile-detect-bundle&quot;: &quot;1.0.*&quot;...}" />
+              <marker date="1499704743547" expanded="true" signature="1227:2653" ph="mobile_detect: &lt;6 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="1227:2682" ph="mobile_detect: &lt;8 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="1246:2215" ph="redirect: &lt;4 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="1264:1503" ph="full: &lt;4 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="1294:1298" ph="true" />
+              <marker date="1499704743547" expanded="true" signature="1344:1359" ph="http://site.com" />
+              <marker date="1499704743547" expanded="true" signature="1446:1449" ph="301" />
+              <marker date="1499704743547" expanded="true" signature="1495:1503" ph="redirect" />
+              <marker date="1499704743547" expanded="true" signature="1570:1811" ph="mobile: &lt;4 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="1602:1606" ph="true" />
+              <marker date="1499704743547" expanded="true" signature="1652:1669" ph="http://m.site.com" />
+              <marker date="1499704743547" expanded="true" signature="1754:1757" ph="301" />
+              <marker date="1499704743547" expanded="true" signature="1803:1811" ph="redirect" />
+              <marker date="1499704743547" expanded="true" signature="1878:2119" ph="tablet: &lt;4 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="1910:1914" ph="true" />
+              <marker date="1499704743547" expanded="true" signature="1960:1977" ph="http://t.site.com" />
+              <marker date="1499704743547" expanded="true" signature="2062:2065" ph="301" />
+              <marker date="1499704743547" expanded="true" signature="2111:2119" ph="redirect" />
+              <marker date="1499704743547" expanded="true" signature="2211:2215" ph="true" />
+              <marker date="1499704743547" expanded="true" signature="2238:2290" ph="switch_device_view: &lt;1 key&gt;" />
+              <marker date="1499704743547" expanded="true" signature="2285:2290" ph="false" />
+              <marker date="1499704743547" expanded="true" signature="2518:2531" ph="device_view" />
+              <marker date="1499704743547" expanded="true" signature="2599:2609" ph="+1 month" />
+              <marker date="1499704743547" expanded="true" signature="2640:2653" ph="device_view" />
+              <marker date="1499704743547" expanded="true" signature="2866:3047" ph="someaction: &lt;3 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="2892:2903" ph="/someaction" />
+              <marker date="1499704743547" expanded="true" signature="2908:2962" ph="defaults: {1 key}" />
+              <marker date="1499704743547" expanded="true" signature="2933:2960" ph="YourBundl…someAction" />
+              <marker date="1499704743547" expanded="true" signature="2967:3047" ph="options: {3 keys}" />
+              <marker date="1499704743547" expanded="true" signature="2987:2995" ph="redirect" />
+              <marker date="1499704743547" expanded="true" signature="3005:3016" ph="no_redirect" />
+              <marker date="1499704743547" expanded="true" signature="3024:3045" ph="redirect_…thout_path" />
+              <marker date="1499704743547" expanded="true" signature="6222:6465" ph="mobile_detect: &lt;2 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="6245:6435" ph="redirect: &lt;2 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="6267:6413" ph="mobile: &lt;4 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="6303:6307" ph="true" />
+              <marker date="1499704743547" expanded="true" signature="6330:6347" ph="http://m.site.com" />
+              <marker date="1499704743547" expanded="true" signature="6377:6380" ph="301" />
+              <marker date="1499704743547" expanded="true" signature="6405:6413" ph="redirect" />
+              <marker date="1499704743547" expanded="true" signature="7885:8213" ph="framework: &lt;2 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="7904:7979" ph="router: &lt;1 key&gt;" />
+              <marker date="1499704743547" expanded="true" signature="7934:7979" ph="%kernel.r…mobile.yml" />
+              <marker date="1499704743547" expanded="true" signature="7986:8213" ph="mobile_detect: &lt;2 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="8009:8183" ph="redirect: &lt;3 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="8031:8072" ph="mobile: &lt;1 key&gt;" />
+              <marker date="1499704743547" expanded="true" signature="8067:8072" ph="false" />
+              <marker date="1499704743547" expanded="true" signature="8107:8183" ph="full: &lt;2 keys&gt;" />
+              <marker date="1499704743547" expanded="true" signature="8141:8145" ph="true" />
+              <marker date="1499704743547" expanded="true" signature="8168:8183" ph="http://site.com" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/Collector/device.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-817">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/DependencyInjection/MobileDetectExtensionTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
